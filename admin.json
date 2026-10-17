@@ -1,7 +1,7 @@
 {
-  "version": "0.4.5",
-  "url": "https://github.com/maranello1337/se7en-download-blocker/releases/download/admin-v0.4.5/7DB-Admin-0.4.5.exe",
-  "sha256": "46b4b0e642ed24be60632be769d407bd5b646dafd00181df210774099d9fd098",
-  "size": 68227888,
-  "published": "2026-10-17 19:41"
+  "version": "0.4.6",
+  "published": "2026-10-17 20:16",
+  "sha256": "bb905186bd6decf763d1faba0acdb4711450c81185614532ed8949afe7a78ea7",
+  "url": "https://github.com/maranello1337/se7en-download-blocker/releases/download/admin-v0.4.6/7DB-Admin-0.4.6.exe",
+  "size": 68227906
 }
