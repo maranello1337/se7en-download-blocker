@@ -1,7 +1,7 @@
 {
-  "size": 68227046,
-  "version": "0.4.0",
-  "sha256": "6d65b93030d0209f27ceea69a32e1617721e59d1707d94b7234be680d9372fa0",
-  "published": "2026-10-17 18:49",
-  "url": "https://github.com/se7en-developer/se7en-download-blocker/releases/download/admin-v0.4.0/7DB-Admin-0.4.0.exe"
+  "version": "0.4.1",
+  "sha256": "124b0ed30a8760c538bf71b6a40560d2d13f0748ca21f3678477431c5734dd83",
+  "url": "https://github.com/se7en-developer/se7en-download-blocker/releases/download/admin-v0.4.1/7DB-Admin-0.4.1.exe",
+  "size": 68227053,
+  "published": "2026-10-17 19:05"
 }
