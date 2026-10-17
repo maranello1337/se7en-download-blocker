@@ -3,8 +3,8 @@
     "download-blocker@se7en.rs": {
       "updates": [
         {
-          "update_link": "https://raw.githubusercontent.com/se7en-developer/se7en-download-blocker/main/releases/se7en-download-blocker-0.1.7.xpi",
-          "version": "0.1.7"
+          "version": "0.1.8",
+          "update_link": "https://raw.githubusercontent.com/se7en-developer/se7en-download-blocker/main/releases/se7en-download-blocker-0.1.8.xpi"
         }
       ]
     }
